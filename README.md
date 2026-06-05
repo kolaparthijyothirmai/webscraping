@@ -1,0 +1,1 @@
+This project focuses on extracting data from websites using python. it automates the process of collecting information such as product details and prices from the selected websites and stores it for future analysis.
