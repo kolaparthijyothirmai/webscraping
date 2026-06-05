@@ -9,7 +9,7 @@ Saves scraped data into CSV/Excel format
 Easy-to-customize CSS selectors
 Error handling for missing elements
 🛠️ Technologies Used
-Python 3.x
+Python 3.12
 Selenium
 Pandas
 WebDriver Manager
